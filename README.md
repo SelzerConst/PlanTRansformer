@@ -49,7 +49,7 @@ PTR produces multimodal predictions that adhere to lane boundaries and respect a
 ### Goal-conditioned Planning
 Ego-vehicle planning is guided by high-level navigation commands. PTR adaptively modulates its trajectory based on navigation intent while maintaining safe buffers from surrounding agents.
 
-![Planning Qualitative Results](assets/qualitativ_planing.png)
+![Planning Qualitative Results](assets/qualitativ_planning.png)
 
 ---
 
