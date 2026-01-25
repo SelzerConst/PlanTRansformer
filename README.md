@@ -44,12 +44,12 @@ Compared to GameFormer, PTR significantly reduces planning errors and improves t
 ### Multi-Agent Prediction
 PTR produces multimodal predictions that adhere to lane boundaries and respect agent interactions. The model maintains high map consistency and semantic alignment even in complex dense traffic.
 
-![Prediction Visualization Placeholder](assets/qualitative_prediction.png)
+![Prediction Qualitative Results](assets/qualitativ_prediction.png)
 
 ### Goal-conditioned Planning
 Ego-vehicle planning is guided by high-level navigation commands. PTR adaptively modulates its trajectory based on navigation intent while maintaining safe buffers from surrounding agents.
 
-![Planning Visualization Placeholder](assets/qualitative_planning.png)
+![Planning Qualitative Results](assets/qualitativ_planing.png)
 
 ---
 
